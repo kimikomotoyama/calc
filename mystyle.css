@@ -1,0 +1,30 @@
+body{
+	font-size: 16px;
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
+h1{
+	font-size: 24px;	
+}
+input[type="text"]{
+	padding: 7px;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	width: 100px;
+	font-weight: bold;
+	font-size: 18px;
+	text-align: right;
+}
+#btn{
+	margin: 30px auto;
+	width: 180px;
+	border-radius: 5px;
+	box-shadow: 0 4px 0 #e91b0c;
+	background: #f44336;
+	color: #fff;
+	cursor: pointer;
+	padding: 7px;
+}
+#btn:hover{
+	opacity: 0.8;
+}
